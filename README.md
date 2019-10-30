@@ -9,4 +9,5 @@ Another edit
 
 An edit from Github
 
-Another edit from Github that we'll pull directly, that I have now edited locally.
+Another edit from Github that we'll pull directly, that I have now edited locally, and resolved a 
+merge conflict.
